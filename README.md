@@ -1,4 +1,16 @@
 # DQN
 
-https://medium.datadriveninvestor.com/how-to-install-the-python-environment-for-ai-and-machine-learning-on-linux-765678fcb4fb
+create virtual machine: 
 
+```
+python3 -m venv virt
+source virt/bin/activate
+```
+
+
+
+install these inside virt: 
+
+```
+python3 -m pip install numpy/ scipy/ panda/ tensoflow/ keras/ 
+```
